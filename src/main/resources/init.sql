@@ -1,0 +1,3 @@
+
+insert into creative (id, screenShotLocation, sound, creativeUrl, creativeHtml, largestSwf, largestImg, clickThroughUrl, landingUrl, height, width, loadTime, md5) values (1, 'my screenshot', true, 'creative-url', 'creative-html', 'largest-swf', 'largest-img', 'click-through-url', 'landing-url', 100, 50, 12345, 'md-5');
+insert into creative (id, screenShotLocation, sound, creativeUrl, creativeHtml, largestSwf, largestImg, clickThroughUrl, landingUrl, height, width, loadTime, md5) values (2, 'my screenshot2', true, 'creative-url-2', 'creative-html-2', 'largest-swf-2', 'largest-img-2', 'click-through-url-2', 'landing-url-2', 1001, 501, 123456, 'md-5-2');
