@@ -1,0 +1,7 @@
+An example to illustrate how to use jackson streaming api to stream json response in restful web services.
+
+1. set up mysql
+2. Start tomcat:
+
+mvn clean tomcat7:run
+
